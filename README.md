@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanjay
-- 👀 I’m interested in building applications that solves the problem and bring  inovation
+- 👀 I’m interested in building applications that solves the real world problem and bring  inovation
 - 🌱 I’m currently studying MCA final year at JSS Science and Technology University Mysore 
 - 📫 Can reach me sanjaydh006@gmail.com, instagram- its.Sanjay005
 <!---
