@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sanjay<br>👀 I’m interested in building applications that solves the real world problem and bring inovation<br>🌱 I’m currently working as Associate Sotware Engineer at Solugenix.Completed MCA from Technology University Mysore<br>📫 Can reach me sanjaydh006@gmail.com<br>
+👋 Hi, I’m Sanjay<br>👀 I’m interested in building applications that solves the real world problem and bring inovation<br>🌱 I’m currently working as an Associate Sotware Engineer at Solugenix. Completed MCA from JSS Science and Technology University Mysore<br>📫 Can reach me sanjaydh006@gmail.com<br>
 
 
 ## 🌐 Socials:
